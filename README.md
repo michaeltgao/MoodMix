@@ -1,4 +1,4 @@
-# Vibe-to-Playlist iMessage Agent
+# MoodMix
 
 An AI-powered agent that listens to your iMessages and creates personalized Spotify playlists from natural language "vibe" descriptions. Text it something like *"driving on PCH at sunset"* and get back a curated playlist in seconds.
 
